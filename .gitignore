@@ -18,6 +18,16 @@ rad.json
 *.g.xlf
 #License-files
 *.bclicense
+
+# Prisma
+node_modules
+.env
+.env.local
+dist
+build
+*.log
+
+.DS_Store
 *.flf
 #Test results file
 TestResults.xml
